@@ -24,5 +24,7 @@ Yeh visuals ko reasoning ke sath combine karke smarter answers deta hai, aur scr
 ### 4. Name any two developer tools introduced with Gemini 3.0.?
 
 Gemini 3.0 ne developers ke liye kuch strong tools introduce kiye hain, jin me Google Antigravity aur Jules bohot important hain.
+
 Antigravity: AI agents ko full development tasks handle karne deta hai, jaise planning, coding aur fixes.
+
 Jules: Ek coding agent hai jo GitHub repository ke sath kaam karta hai aur background me issues solve karke pull requests bana deta hai.
