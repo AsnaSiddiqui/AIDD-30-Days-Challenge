@@ -1,0 +1,5 @@
+![sp.constitution](<output 1.PNG>)
+![sp.specify](<output 2.PNG>)
+![sp.plan](<output 3.PNG>)
+![sp.task](<output 4.PNG>)
+![sp.implementation](<output 5.PNG>)
