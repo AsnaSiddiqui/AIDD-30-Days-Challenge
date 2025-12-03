@@ -1,0 +1,17 @@
+{
+  "name": "plot_consistency_checker",
+  "description": "Analyzes story events, checks for inconsistencies, missing links, timeline errors, and logical gaps.",
+  "inputs": [
+    {
+      "name": "story_text",
+      "type": "string",
+      "required": true
+    }
+  ],
+  "outputs": [
+    {
+      "name": "issues",
+      "type": "array"
+    }
+  ]
+}

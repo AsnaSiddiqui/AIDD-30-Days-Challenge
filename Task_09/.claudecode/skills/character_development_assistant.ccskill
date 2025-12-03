@@ -1,0 +1,22 @@
+{
+  "name": "character_development_assistant",
+  "description": "Helps build detailed and consistent characters, including personality, background, and goals.",
+  "inputs": [
+    {
+      "name": "character_name",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "story_context",
+      "type": "string",
+      "required": false
+    }
+  ],
+  "outputs": [
+    {
+      "name": "character_profile",
+      "type": "object"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "book_generation_agent",
+  "description": "An agent designed to help with book creation by generating chapter outlines, building characters, and checking plot consistency.",
+  "skills": [
+    "chapter_outline_generator",
+    "character_development_assistant",
+    "plot_consistency_checker"
+  ],
+  "goals": [
+    "Generate structured book content",
+    "Assist with character development",
+    "Maintain plot consistency and event clarity"
+  ]
+}
+

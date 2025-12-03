@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "agent": "agent.json",
+  "skills_directory": "skills",
+  "settings": {
+    "load_skills": true,
+    "logging": true
+  }
+}

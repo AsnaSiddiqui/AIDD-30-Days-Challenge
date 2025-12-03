@@ -1,0 +1,22 @@
+{
+  "name": "chapter_outline_generator",
+  "description": "Creates structured chapter outlines based on a topic, genre, or story direction.",
+  "inputs": [
+    {
+      "name": "topic",
+      "type": "string",
+      "required": true
+    },
+    {
+      "name": "genre",
+      "type": "string",
+      "required": false
+    }
+  ],
+  "outputs": [
+    {
+      "name": "outline",
+      "type": "object"
+    }
+  ]
+}
