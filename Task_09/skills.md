@@ -2,7 +2,7 @@
 
 ## Folder overview
 
-Task_09/screenshot/structure.PNG
+![!\[Structure\](structure.PNG)](screenshot/structure.PNG)
 
 ## Agent Configuration
 
