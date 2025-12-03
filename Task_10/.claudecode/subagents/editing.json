@@ -1,0 +1,9 @@
+{
+  "name": "editing_agent",
+  "description": "Improves the chapter by fixing errors, enhancing clarity, and strengthening narrative flow.",
+  "goals": [
+    "Correct grammar",
+    "Fix weak sentences",
+    "Improve readability"
+  ]
+}

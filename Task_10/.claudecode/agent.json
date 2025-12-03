@@ -1,0 +1,12 @@
+{
+  "name": "book_orchestrator",
+  "description": "Controls the full workflow of book creation using research, writing, editing, and formatting sub-agents.",
+  "subagents": [
+    "research_agent",
+    "writing_agent",
+    "editing_agent",
+    "formatting_agent"
+  ],
+  "goal": "Produce a complete, well-structured book chapter."
+}
+ 

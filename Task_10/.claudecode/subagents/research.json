@@ -1,0 +1,9 @@
+{
+  "name": "research_agent",
+  "description": "Collects topic research, key facts, and background information.",
+  "goals": [
+    "Find relevant research",
+    "Summarize important facts",
+    "Provide references for writing"
+  ]
+}

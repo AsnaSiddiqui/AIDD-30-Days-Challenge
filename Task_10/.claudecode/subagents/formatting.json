@@ -1,0 +1,9 @@
+{
+  "name": "formatting_agent",
+  "description": "Formats the final output into a clean, organized chapter.",
+  "goals": [
+    "Apply formatting rules",
+    "Organize headings, spacing, and layout",
+    "Prepare chapter for publication"
+  ]
+}

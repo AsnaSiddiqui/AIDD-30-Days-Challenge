@@ -1,0 +1,8 @@
+{
+  "version": "1.0",
+  "agent": "agent.json",
+  "subagents_directory": "subagents",
+  "settings": {
+    "load_subagents": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "writing_agent",
+  "description": "Writes the first draft of the chapter using the research notes.",
+  "goals": [
+    "Generate structured chapter content",
+    "Follow the outline and flow",
+    "Maintain clarity and coherence"
+  ]
+}
